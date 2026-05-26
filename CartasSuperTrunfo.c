@@ -6,7 +6,7 @@
 
 int main() {
     int populaçao1, populaçao2, populaçao3, populaçao4, npt1, npt2, npt3, npt4;
-    float areaemkm1, areaemkm2, areaemkm3, areaemkm4, pib1, pib2, pib3, pib4;
+    float areaemkm1, areaemkm2, areaemkm3, areaemkm4, pib1, pib2, pib3, pib4, dpp1, dpp2, pibpc1, pibpc2;
     char estado1[50], estado2[50], estado3[50], estado4[50], codigo1[50], codigo2[50], codigo3[50], codigo4[50], ndc1[50], ndc2[50], ndc3[50], ndc4[50];
 
 
@@ -30,7 +30,6 @@ scanf("%f", &pib1);
 
 printf("DIGITE A QUANTIDADE DE PONTOS TURISTICOS: \n");
 scanf("%d", &npt1);
-
 
 
 
